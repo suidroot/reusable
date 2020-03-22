@@ -1,10 +1,10 @@
-# Embedded Podcast Slack Channel Code of Conduct - For Admins
+# Mainesec Slack Channel Code of Conduct - For Admins
 
 This version is intended for internal use by the slack admins.
 
 ## Warnings
 
-Any admin can issue a verbal warning to a participant if their behavior violates the group's anti-harassment policy. Warnings should be reported to the [admin team](mailto:show@embedded.fm) as soon as practical. The report should include: 
+Any admin can issue a verbal warning to a participant if their behavior violates the group's anti-harassment policy. Warnings should be reported to the [admin team](mailto:admin@mainesec.org) as soon as practical. The report should include: 
 
 * Identifying information of the participant
 * The time you issued the warning
