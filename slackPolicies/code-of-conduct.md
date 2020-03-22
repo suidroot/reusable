@@ -1,8 +1,8 @@
-# Embedded Podcast Slack Code of Conduct
+# Mainesec Slack Code of Conduct
 
-The Embedded Podcast Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, country of origin, age or religion.  We do not tolerate harassment of community participants in any form.  
+The Mainesec Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, country of origin, age or religion.  We do not tolerate harassment of community participants in any form.  
 
-These rules apply to all public channels in the Embedded Podcast Slack, as well as any unsolicited or unwanted private communication. Community participants and admins violating these rules may be sanctioned or expelled from the community at the discretion of the admin team.
+These rules apply to all public channels in the Mainesec Slack, as well as any unsolicited or unwanted private communication. Community participants and admins violating these rules may be sanctioned or expelled from the community at the discretion of the admin team.
 
 Harassment includes, but is not limited to:
 
@@ -17,7 +17,7 @@ Harassment includes, but is not limited to:
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behavior
 
-If you are being harassed, notice someone else is being harassed, or have other concerns, please contact an admin on Slack or send email to the show (mailto:show@embedded.fm) immediately.
+If you are being harassed, notice someone else is being harassed, or have other concerns, please contact an admin on Slack or send email to the show (mailto:admin@mainesec.org) immediately.
 
 ## Enforcement
 
@@ -32,7 +32,7 @@ The admins will seek to use the least punitive means available to resolve an iss
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our events and online spaces for everyone. We want you to be happy in our online space. People like you make them all better.
 
 * Feel free to DM any of the admins at any time
-* [Emailing the admin team](mailto:show@embedded.fm)
+* [Emailing the admin team](mailto:admin@mainesec.org)
 
 When taking a report, our staff will work to ensure you are safe and cannot be overheard. You won't be asked to confront anyone and we won't tell anyone who you are.
 
