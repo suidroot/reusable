@@ -1,17 +1,14 @@
-# Embedded Podcast Slack Channel Policies
+# MaineSec Slack Channel Policies
 
 Documentation, Info, and Code of Conduct for the Embedded Podcast Slack Channel.
 
-Inspired by the [TriangleDevOps Policies Repo](https://github.com/TriangleDevOps/policies)
+Forked From [Embedded Podcast Slack Channel Policies](https://github.com/eleciawhite/reusable/tree/master/slackPolicies)
 
 ## Admins
 
 These people are labeled as "Admins" on this slack. They are individuals that help us enforce our [Code of Conduct][conduct]
 
-* [Elecia White](https://embeddedpodcast.slack.com/messages/@elecia/)
-* [Chris White](https://embeddedpodcast.slack.com/messages/@tstoneymonster/)
-* [Chris Svec](https://embeddedpodcast.slack.com/messages/@svec/)
-* [Chris Gammell](https://embeddedpodcast.slack.com/messages/@swornenemy/)
+* [Ben Mason (suidroot)](https://mainesec.slack.com/messages/@suidroot/)
 
 ## Policies
 
@@ -21,14 +18,13 @@ These people are labeled as "Admins" on this slack. They are individuals that he
 
 ## Default Channels
 
-* [#jobs](https://embeddedpodcast.slack.com/messages/jobs/)
-* [#random](https://embeddedpodcast.slack.com/messages/random/)
-* [#general](https://embeddedpodcast.slack.com/messages/general/)
-* [#code-of-conduct](https://embeddedpodcast.slack.com/messages/code-of-conduct/)
+* [#jobs](https://mainesec.slack.com/messages/jobs/)
+* [#random](https://mainesec.slack.com/messages/random/)
+* [#general](https://mainesec.slack.com/messages/general/)
 
 ## High-level code of conduct
 
-The Embedded Podcast Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.  We do not tolerate harassment of community participants in any form.
+The Mainesec Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.  We do not tolerate harassment of community participants in any form.
 
 Community participants violating these rules may be sanctioned or expelled from the community at the discretion of the admins.
 
