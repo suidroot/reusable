@@ -1,4 +1,4 @@
-# Embedded Podcast Code of Conduct Additional Resources
+# Mainesec Code of Conduct Additional Resources
 
 There is a pretty vast amount of reading to do about Codes of Conduct,
 diversity. We've assembled a list of some additional reading below.
